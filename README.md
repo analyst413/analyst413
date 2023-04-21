@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @analyst413
 - 👀 Not new to codeing, but new to learning how to use GIT.  
 
 <!---
